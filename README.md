@@ -1,4 +1,4 @@
-# Metro Affordability Pulse
+# Metro Affordability Project
 
 **Can a median-income family afford the median-priced home in America's 100 largest metros?**
 
